@@ -30,8 +30,9 @@ A simple and interactive flash card application built using Python's Tkinter lib
    ```bash
    https://github.com/Pooja389/flash_card.git
    ```
-3. Make sure all required files (`card_front.png`, `card_back.png`, `right.png`, `wrong.png`, and `french_words.csv`) are in the same 
+2. Make sure all required files (`card_front.png`, `card_back.png`, `right.png`, `wrong.png`, and `french_words.csv`) are in the same 
    folder as `flash.py`.
+3. Open the repository in computer  
 4. Open a terminal/command prompt, navigate to the folder, and run the script:
    ```bash
    cd flash-card
@@ -39,7 +40,7 @@ A simple and interactive flash card application built using Python's Tkinter lib
    ```bash
    python flash.py
    ```
----
+-------------------------------------------------------------------------------------------------------------------------------
 ## License
 This project is free to use for educational purposes.
 
