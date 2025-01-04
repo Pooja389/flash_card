@@ -35,7 +35,7 @@ A simple and interactive flash card application built using Python's Tkinter lib
 3. Open the repository in computer  
 4. Open a terminal/command prompt, navigate to the folder, and run the script:
    ```bash
-   cd flash-card
+   cd "flash card"
    ```
    ```bash
    python flash.py
